@@ -19,7 +19,9 @@ Where is the location of our Meetup? Iran,Qom Keyhan (Qom innovation factory)
 Topics:  
 First Mettup:  
 -  What is the ML. Explain hebb and perceptron Algorithm.( Mohammadreza Borjian - mborjian82@gmail.com)  
+Second Mettup:  
 -  Explain some algorithms. beysian,Svm, Decision tree , Random forest ... . ( Mohammadreza Borjian - mborjian82@gmail.com)    
+Third Mettup:  
 -  The importance of Business Context for a data or artificial intelligence specialist. Outlier and noise data, missing data, data balancing ( Mohammad Afshari - mohammadafsharipc1379@gmail.com)  
 
 Contact us:   
