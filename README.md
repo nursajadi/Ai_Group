@@ -46,6 +46,12 @@ Each session has its own directory containing:
 - **Prompt Engineering and RAGs**: Explore their architecture, applications, and practical examples.  
   *For more details about this topic, navigate to the `05 - Prompt Engineering and RAGs (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
+
+#### 6. MLP and RNN (Mahdi Farahani) 
+- **MLP and RNN**: Explained MLP and RNN architectures and functionlities and also practical examples.  
+  *For more details about this topic, navigate to the `06 - MLP and RNN (Mahdi-Farahani)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *Speaker: Mahdi Farahani - m.farahani1412@gmail.com*
+
 ---
 
 ## Contact Us:  
