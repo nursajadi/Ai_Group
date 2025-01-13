@@ -52,6 +52,10 @@ Each session has its own directory containing:
   *For more details about this topic, navigate to the `06 - MLP and RNN (Mahdi-Farahani)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Mahdi Farahani - m.farahani1412@gmail.com*
 
+#### 7. Reinforcement Learning (Alireza Mohammadi) 
+- **Reinforcement Learning**: Introduction and explanation of reinforcement learning and explanation of its algorithms.  
+  *For more details about this topic, navigate to the `07 - Reinforcement Learning (Alireza Mohammadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *Speaker: Alireza Mohammadi - a.rezamohmmadi369@gmail.com*
 ---
 
 ## Contact Us:  
